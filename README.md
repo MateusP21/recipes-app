@@ -1,6 +1,12 @@
 
 # App de Receitas (Master Cooking)
 
+<p align="center">
+  <img src="./desktop.gif" />
+  
+</p>
+
+
 [Versão online aqui!!]()
 
 ## Contexto
